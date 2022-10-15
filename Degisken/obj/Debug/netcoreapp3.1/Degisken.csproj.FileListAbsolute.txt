@@ -1,0 +1,14 @@
+C:\Users\senay\OneDrive\Masaüstü\Pratikler\Degisken\bin\Debug\netcoreapp3.1\Degisken.exe
+C:\Users\senay\OneDrive\Masaüstü\Pratikler\Degisken\bin\Debug\netcoreapp3.1\Degisken.deps.json
+C:\Users\senay\OneDrive\Masaüstü\Pratikler\Degisken\bin\Debug\netcoreapp3.1\Degisken.runtimeconfig.json
+C:\Users\senay\OneDrive\Masaüstü\Pratikler\Degisken\bin\Debug\netcoreapp3.1\Degisken.runtimeconfig.dev.json
+C:\Users\senay\OneDrive\Masaüstü\Pratikler\Degisken\bin\Debug\netcoreapp3.1\Degisken.dll
+C:\Users\senay\OneDrive\Masaüstü\Pratikler\Degisken\bin\Debug\netcoreapp3.1\Degisken.pdb
+C:\Users\senay\OneDrive\Masaüstü\Pratikler\Degisken\obj\Debug\netcoreapp3.1\Degisken.csproj.AssemblyReference.cache
+C:\Users\senay\OneDrive\Masaüstü\Pratikler\Degisken\obj\Debug\netcoreapp3.1\Degisken.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\senay\OneDrive\Masaüstü\Pratikler\Degisken\obj\Debug\netcoreapp3.1\Degisken.AssemblyInfoInputs.cache
+C:\Users\senay\OneDrive\Masaüstü\Pratikler\Degisken\obj\Debug\netcoreapp3.1\Degisken.AssemblyInfo.cs
+C:\Users\senay\OneDrive\Masaüstü\Pratikler\Degisken\obj\Debug\netcoreapp3.1\Degisken.csproj.CoreCompileInputs.cache
+C:\Users\senay\OneDrive\Masaüstü\Pratikler\Degisken\obj\Debug\netcoreapp3.1\Degisken.dll
+C:\Users\senay\OneDrive\Masaüstü\Pratikler\Degisken\obj\Debug\netcoreapp3.1\Degisken.pdb
+C:\Users\senay\OneDrive\Masaüstü\Pratikler\Degisken\obj\Debug\netcoreapp3.1\Degisken.genruntimeconfig.cache
